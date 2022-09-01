@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am really interested in FORMULA ONE recently because of the first Chinese F1 driver [ZHOU GUANYU](https://twitter.com/ZhouGuanyu24)!
 
 
-[![Li Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhyundeadsoul&count_private=true&show_icons=true&hide=stars)](https://lihongyu.me/)
+[![Li Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhyundeadsoul&count_private=true&show_icons=true)](https://lihongyu.me/)
 
