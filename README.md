@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lhyundeadsoul@gmail.com and https://lihongyu.me/
 - ⚡ Fun fact: I am really interested in FORMULA ONE recently because of the first Chinese F1 driver [ZHOU GUANYU](https://twitter.com/ZhouGuanyu24)!
 
+
+[![Li Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhyundeadsoul&count_private=true&show_icons=true&hide=stars)](https://github.com/lhyundeadsoul/github-readme-stats)
+
+
+### Visitors Count 
+<img src="https://visitor-badge.glitch.me/badge?page_id=lhyundeadsoul" />
