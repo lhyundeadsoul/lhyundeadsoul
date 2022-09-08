@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Li Hongyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhyundeadsoul&count_private=true&show_icons=true)](https://lihongyu.me/)
 
-![Metrics](https://metrics.lecoq.io/lhyundeadsoul?template=terminal&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/lhyundeadsoul?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
